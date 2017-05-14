@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.rishucuber.armywelfare.activity.DonateActivity">
+    <include layout="@layout/appbar_layout"/>
+    <TextView
+        android:layout_marginTop="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Donate To"
+        android:gravity="center"
+        android:textSize="40sp"/>
+    <TextView
+        android:id="@+id/martyr_name_donation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="40sp"/>
+    <EditText
+        android:layout_marginTop="40dp"
+        android:id="@+id/amount"
+        style="@style/LoginActivityEdittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Amount" />
+
+    <Button
+        android:id="@+id/pay"
+        style="@style/LoginActivityButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:text="Pay"
+        />
+    <TextView
+        android:id="@+id/success"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="40sp"
+        android:visibility="gone"
+        android:text="Your Transaction Was Successful"
+        />
+
+    <Button
+        android:id="@+id/back"
+        style="@style/LoginActivityButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@android:color/holo_red_dark"
+        android:background="@color/colorPrimary"
+        android:visibility="gone"
+        android:text="Go To Martyr Feed"
+        />
+
+
+</LinearLayout>

@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">ArmyWelfare</string>
+    <string name="google_maps_key">AIzaSyAqMJ9D_BOFcEb2VHwpcous0q_1mChJ9z4</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_forgot_password">ForgotPasswordActivity</string>
+    <string name="title_activity_verifiction">VerifictionActivity</string>
+    <string name="title_activity_signup">SignupActivity</string>
+
+    <!--LoginActivity Strings-->
+    <string name="LoginActivityEmailHint">Email Address</string>
+    <string name="LoginActivityPasswordHint">Password</string>
+    <string name="LoginActivityBLoginText">Login</string>
+    <string name="LoginActivityTvForgotPasswordText">Forgot password?</string>
+    <string name="LoginActivityTvDonthaveText">Dont have an account ? Sign up</string>
+
+
+    <string name="ProfileName">Dave Smith</string>
+    <string name="EditProfile">Edit Profile</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="payment">Payment</string>
+    <string name="jobhis">Job History</string>
+    <string name="emcontact">Emergency Contact</string>
+    <string name="help">Help</string>
+    <string name="logout">Logout</string>
+    <string name="netview">Networks View</string>
+
+    <string name="jobhistab">Job History</string>
+    <string name="Missjobtab">Missed Jobs</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="support"> Support via Call/Email</string>
+    <string name="addtwo">Silver Oks Hospital, Laxmi Nagar,
+Mumbai
+</string>
+    <string name="addone">3846 W 38 Rd,Srishti Marg"</string>
+
+    <string name="Rs">\u20B9</string>
+    <string name="date">14 June, 2016 04:23</string>
+    <string name="distance">5.6km</string>
+    <string name="dname">Driver Name: Suresh Kumar</string>
+    <string name="state">Mumbai</string>
+    <string name="ridetime">Ride Time: 20 min</string>
+    <string name="amountTitle">Total Payable Amount</string>
+    <string name="amount">Rs. 1832</string>
+    <!--for content_forgot_password-->
+    <string name="forgotpassword_label">Please enter your Email ID to reset your password.</string>
+    <string name="forgotpassword_contacthint">Email ID</string>
+    <string name="forgotpassword_bttext">Continue</string>
+    <!--for content_login-->
+    <string name="login_emailhint">Email Address</string>
+    <string name="login_passhint">Password</string>
+    <string name="bt_login_text">Login</string>
+    <string name="login_forgotpasslabel">Forgot password?</string>
+    <string name="login_noaccountlabel">Dont have an account? Sign up</string>
+    <!--for content_signup-->
+    <string name="signup_fnamehint">Full name</string>
+    <string name="signup_lnamehint">Last name</string>
+    <string name="signup_contacthint">Contact Number</string>
+    <string name="signup_contactnamehint">Contact Name</string>
+    <string name="signup_emailhint">Email address</string>
+    <string name="signup_passhint">Password</string>
+    <string name="signup_conpasshint">Confirm password</string>
+    <string name="signup_tandc">I accept Terms od Service and Privacy Policy</string>
+    <string name="signup_bttext">Signup</string>
+    <!--for content_verification-->
+    <string name="verification_otplabeltext">Please enter the one time password you just recieved via sms at </string>
+    <string name="verification_numbertext">XX-XXXXXXXXXX</string>
+    <string name="verification_bttext">Confirm</string>
+    <string name="verification_changeNumber">Change Number</string>
+    <string name="verification_resendotp">Resend otp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="rupee">\u20B9</string>
+    <string name="martyr_info">For three generations, Merla village in Jharkhand’s Khunti district, 40 km from Ranchi, has seen a number of its residents joining the Army as young men, with the oldest having gone on to retire. On Monday, Merla awaited the arrival of its first martyr.
+
+Sepoy Javra Munda, 35, was one of the 18 killed in the Uri attack. He had been posted in Kashmir for three years and been expecting a transfer.
+
+“As far as I know, the entire unit was to be transferred to West Bengal and they were supposed to go to Uri for one last time,” said Francis Pardia, a 1971 war who retired in 1984, and whose father had been an Indian member of the British Army.
+
+Yakriyash Topno, another veteran, said, “There were three or four of us who retired after serving in the Army. There are another three in the Army. Our heart bleeds today because Javra is the first martyr.”
+
+Villagers are preparing to set up a memorial to their hero at the spot he is buried. “He will be buried in his own land and we will build a memorial there,” said Kashi Nath Mahato, overseeing the preparations.
+
+Jhavra’s brother Daud Munda, 18 and a BA student, wants to join the Army. “There will be a recruitment rally in October in Ranchi. If I get through, I will join the Army. I have to take care of my Javra’s wife and three daughters. Also, I want to avenge my brother’s death,” he said.
+
+Salmi Dhanwar, Javra’s mother, told villagers, “It is sad I have lost my son but I am also proud he given his life for the country.”</string>
+
+
+</resources>

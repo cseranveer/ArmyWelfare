@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "213360996692",
+    "firebase_url": "https://armywelfare-32865.firebaseio.com",
+    "project_id": "armywelfare-32865",
+    "storage_bucket": "armywelfare-32865.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213360996692:android:660320666dfa1991",
+        "android_client_info": {
+          "package_name": "com.example.rishucuber.armywelfare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213360996692-ng28951he9i14a44g6aariqult8q8kcd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rishucuber.armywelfare",
+            "certificate_hash": "1606ad001afcc7ad78ffc74ec501793bba9235f0"
+          }
+        },
+        {
+          "client_id": "213360996692-6lch62o4sfplb1vj4kpua4410iq74giq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLPjE9TQlggZPGAJdGbRRhRhCAvOVJ5pc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213360996692-6lch62o4sfplb1vj4kpua4410iq74giq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
